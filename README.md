@@ -5,13 +5,13 @@ I am a passionate **Solo Freelancer, Tech Enthusiast, and Digital Partner** base
 
 - 🏢 **Founder & Lead Developer** at **Kandel G** (Your Digital Partner)
 - 🛠️ **Core Expertise:** Architecture-driven Mobile Apps (Flutter/Dart) & Business Web Solutions
-- 📱 **Featured Product:** [Japanese Kanji App](https://github.com/Kandelg) (Android & iOS)
-- 🌐 **Official Website:** [www.kandelg.com.np](https://kandelg.com.np)
+- 📱 **Featured Product:** [Japanese Kanji App](https://github.com) (Android & iOS)
+- 🌐 **Official Website:** [://kandelg.com.np](https://://kandelg.com.np)
 - ✉️ **Business Inquiries:** info@kandelg.com.np | yesgpk@googlemail.com
 
 ---
 
-### 💼 What I Do (Our Services)
+### 💼 Section A: What I Do (Our Services)
 
 | Service | Description |
 | :--- | :--- |
@@ -23,25 +23,26 @@ I am a passionate **Solo Freelancer, Tech Enthusiast, and Digital Partner** base
 
 ---
 
+### ✦ Section B: Built With Purpose
+
+Technology that looks good, works smoothly, and helps businesses grow. Our core delivery philosophy is anchored on three main pillars:
+
+* 👤 **Personal Approach:** Tailoring specific software architectures to match absolute corporate requirements.
+* 🛡️ **Reliable Solutions:** Providing high-uptime cloud setups, secure firewalls, and optimized backend channels.
+* 🤝 **Long-term Support:** Offering continuous lifecycle maintenance, regular updates, and strategic IT consultations.
+
+---
+
 ### 🛠️ Tech Stack & Infrastructure Tools
 
-* **Mobile & Frontend:**
-  ![Dart](https://shields.io)
-  ![Flutter](https://shields.io)
-  ![JavaScript](https://shields.io)
-  ![HTML5](https://shields.io)
-  ![CSS3](https://shields.io)
+* **Mobile & Frontend:**  
+  ![Dart](https://shields.io) ![Flutter](https://shields.io) ![JavaScript](https://shields.io) ![HTML5](https://shields.io) ![CSS3](https://shields.io)
 
-* **Backend, Cloud & Infrastructure:**
-  ![Firebase](https://shields.io)
-  ![Firestore](https://shields.io)
-  ![Cloudflare](https://shields.io)
-  ![Vercel](https://shields.io)
+* **Backend, Cloud & Infrastructure:**  
+  ![Firebase](https://shields.io) ![Firestore](https://shields.io) ![Cloudflare](https://shields.io) ![Vercel](https://shields.io)
 
-* **Development Workflow:**
-  ![VS Code](https://shields.io)
-  ![Android Studio](https://shields.io)
-  ![Git](https://shields.io)
+* **Development Workflow:**  
+  ![VS Code](https://shields.io) ![Android Studio](https://shields.io) ![Git](https://shields.io)
 
 ---
 
@@ -50,7 +51,7 @@ I am a passionate **Solo Freelancer, Tech Enthusiast, and Digital Partner** base
 Let's build something meaningful together! Whether it's a corporate project, educational institution portal, or a custom application, feel free to reach out.
 
 - 📞 **Phone/WhatsApp:** [+977 9863343876](https://wa.me)
-- 🌐 **Web:** [kandelg.com.np](https://kandelg.com.np)
+- 🌐 **Web:** [kandelg.com.np](https://://kandelg.com.np)
 - 👥 **LinkedIn:** [in/kandelg](https://linkedin.com)
 - 🇫 **Facebook:** [Find us on Facebook](https://facebook.com)
 
