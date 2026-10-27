@@ -35,14 +35,11 @@ Technology that looks good, works smoothly, and helps businesses grow. Our core 
 
 ### 🛠️ Tech Stack & Infrastructure Tools
 
-* **Mobile & Frontend:**  
-  ![Dart](https://shields.io) ![Flutter](https://shields.io) ![JavaScript](https://shields.io) ![HTML5](https://shields.io) ![CSS3](https://shields.io)
-
-* **Backend, Cloud & Infrastructure:**  
-  ![Firebase](https://shields.io) ![Firestore](https://shields.io) ![Cloudflare](https://shields.io) ![Vercel](https://shields.io)
-
-* **Development Workflow:**  
-  ![VS Code](https://shields.io) ![Android Studio](https://shields.io) ![Git](https://shields.io)
+| Category | Technologies & Frameworks |
+| :--- | :--- |
+| **📱 Mobile & Frontend** | Flutter, Dart, JavaScript, HTML5, CSS3 |
+| **☁️ Backend & Infrastructure** | Firebase, Firestore, Cloudflare, Vercel |
+| **⚙️ Development Workflow** | VS Code, Android Studio, Git & GitHub |
 
 ---
 
@@ -54,12 +51,3 @@ Let's build something meaningful together! Whether it's a corporate project, edu
 - 🌐 **Web:** [kandelg.com.np](https://://kandelg.com.np)
 - 👥 **LinkedIn:** [in/kandelg](https://linkedin.com)
 - 🇫 **Facebook:** [Find us on Facebook](https://facebook.com)
-
----
-
-### 📈 GitHub Stats & Activities
-
-<p align="center">
-  <img src="https://vercel.app" alt="Gyanendra's GitHub Stats" width="48%" />
-  <img src="https://vercel.app" alt="Top Languages" width="48%" />
-</p>
