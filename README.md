@@ -6,7 +6,7 @@ I am a passionate **Solo Freelancer, Tech Enthusiast, and Digital Partner** base
 - 🏢 **Founder & Lead Developer** at **Kandel G** (Your Digital Partner)
 - 🛠️ **Core Expertise:** Architecture-driven Mobile Apps (Flutter/Dart) & Business Web Solutions
 - 📱 **Featured Product:** [Japanese Kanji App](https://github.com) (Android & iOS)
-- 🌐 **Official Website:** [://kandelg.com.np](https://://kandelg.com.np)
+- - 🌐 **Official Website:** [www.kandelg.com.np](https://kandelg.com.np)
 - ✉️ **Business Inquiries:** info@kandelg.com.np | yesgpk@googlemail.com
 
 ---
